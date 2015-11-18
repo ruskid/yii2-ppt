@@ -1,0 +1,21 @@
+{
+    "name": "ruskid/yii2-ppt",
+    "description": "Yii2 Power Point Description",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," powerpoint"," ppt"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Victor Demin",
+            "email": "demin@trabeja.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ruskid\\powerpoint\\": ""
+        }
+    }
+}
